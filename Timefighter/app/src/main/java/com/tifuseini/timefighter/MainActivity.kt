@@ -74,8 +74,6 @@ class MainActivity : AppCompatActivity() {
         builder.create().show()
     }
 
-
-
     private fun incrementScore(){
 
         if (!gameStarted){
